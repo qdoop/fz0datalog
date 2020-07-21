@@ -1,2 +1,2 @@
 # fz0datalog
-A Naive Datalog implementation
+A Naive Datalog implementation in F#
